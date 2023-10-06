@@ -22,5 +22,9 @@ int main()
     {
         printf("Num3: %d is greater\n", num3);
     }
+    else
+    {
+        printf("All numbers are equal\n");
+    }
     return 0;
 }
