@@ -1,1 +1,0 @@
-reverse_string[25] = {'\0'}
