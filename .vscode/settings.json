@@ -67,6 +67,8 @@
     "*.env.development": "env",
     "*.env.production": "env",
     "*.env.local": "env",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "string.h": "c",
+    "strings.h": "c"
   }
 }
